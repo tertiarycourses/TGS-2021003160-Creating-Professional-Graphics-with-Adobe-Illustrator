@@ -1,0 +1,12 @@
+.DS_Store
+.env
+.claude/
+assessment/
+reference/
+qa/
+courseware/archive/
+courseware/assets/
+courseware/build/
+courseware/SOURCE-COVERAGE-*.md
+*.tmp
+~$*
